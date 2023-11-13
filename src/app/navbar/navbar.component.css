@@ -1,0 +1,29 @@
+.ligne {
+    border-bottom: 1px solid #1f1d1e; /* Ligne horizontale de 1 pixel d'épaisseur et de couleur noire */
+    margin-top: 10px; /* Espace au-dessus de la ligne (20 pixels dans cet exemple) */
+    margin-bottom: 5px; /* Espace en dessous de la ligne (20 pixels dans cet exemple) */
+
+    max-width: 100%;
+
+
+
+}
+
+nav{
+    
+    border-bottom: 0.1px ;
+    margin-top: 4px;
+}
+
+
+
+
+
+
+
+   
+
+
+
+
+
